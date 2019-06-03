@@ -19,8 +19,11 @@ body .col {
   margin: 0.5rem;
   border-radius: 0.5rem;
   border: 1pt solid;
-  background-color: gray;
+  background-color: #c2c0c0;
   padding: 1rem;
-  text-align: center;
+}
+
+#store {
+  color: red;
 }
 /*# sourceMappingURL=style.css.map */
